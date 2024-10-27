@@ -7,13 +7,13 @@ Enterprise Search is designed to be dynamic and adaptable to fit in both develop
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cover_image.svg#gh-dark-mode-only"/>
-    <source media="(prefers-color-scheme: light)" srcset="assets/cover_image.svg#gh-light-mode-only"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cover_image.png#gh-dark-mode-only"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/cover_image.png#gh-light-mode-only"/>
     <img 
       alt="Enterprise Search Architecture" 
-      src="assets/cover_image.svg" 
-      width="900px"
-      height="auto"
+      src="./assets/cover_image.png"
+      style="max-width: 100%; height: auto;"
+      width="800"
     >
   </picture>
 
@@ -44,9 +44,9 @@ Enterprise Search is designed to be dynamic and adaptable to fit in both develop
     <source media="(prefers-color-scheme: light)" srcset="./assets/key-features-0.1.svg#gh-light-mode-only"/>
     <img 
       alt="Enterprise Search - Key Features" 
-      src="./assets/key-features-0.1.svg" 
-      width="800px"
-      height="auto"
+      src="./assets/key-features-0.1.svg"
+      style="max-width: 100%; height: auto;"
+      width="800"
     >
   </picture>
 
